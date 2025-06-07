@@ -29,15 +29,7 @@
 
 ---
 
-### 📊 My Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [Sales Dashboard](https://github.com/yourusername/sales-dashboard) | Power BI, Excel | Visualized KPIs and trends from sales data. |
-| [ETL Pipeline](https://github.com/yourusername/etl-pipeline) | Python, SQL | Automated data extraction and loading with error handling. |
-| [Customer Churn Prediction](https://github.com/yourusername/churn-model) | Python, AI (sklearn) | Built a model to predict customer churn. |
-
----
 
 ### 📈 GitHub Stats
 
@@ -51,8 +43,8 @@
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:somireddysaiiran369@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sai-kiran-somireddi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
